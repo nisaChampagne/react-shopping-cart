@@ -18,7 +18,7 @@ function App() {
 	return (
 		<div className="App">
 			<Navigation cart={cart} />
-
+			<h1>Danny Was Here</h1>
 			{/* Routes */}
 			<Route
 				exact
